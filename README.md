@@ -11,9 +11,9 @@
 
 <br />
 
-[**002 - Beach**](https://github.com/yj59/blender-beginner/blob/main/completeRender/001-fox-230203.gif)
+[**002 - Beach**](https://github.com/yj59/blender-beginner/blob/main/completeRender/002-beach-230203.png)
 
-<img src="https://user-images.githubusercontent.com/93882395/216818997-2dcbf39f-e264-4b10-8988-8f98044f9af9.png" alt="002-beach-230203" style="zoom: 50%;" /> 
+<img src="https://user-images.githubusercontent.com/93882395/216818997-2dcbf39f-e264-4b10-8988-8f98044f9af9.png" alt="002-beach-230203" style="zoom: 33%;" /> 
 
 *   완성 시간: 6시간
 *   참고 튜토리얼: [Blender 3.2 Animated Beach Tutorial - *Polygon Runway*](https://www.youtube.com/watch?v=sL9ozfAivi0&t=931s)
